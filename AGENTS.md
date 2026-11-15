@@ -1,4 +1,4 @@
-# Agenda
+# AGENTS.md
 
 ## CI/CD-Pipeline
 
